@@ -1,6 +1,6 @@
 # PROJETO--TRAVELGRAM
 Apresentando o Projeto
-file:///home/lorderus/Imagens/Capturas%20de%20tela/travelgram.png
+
 
 # Figma para a navegação do projeto e o Style Guide.
 
